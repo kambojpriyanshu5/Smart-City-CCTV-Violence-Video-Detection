@@ -59,5 +59,4 @@ def test_feature_size():
     print(f"Output shape: {output.shape}")
     print("Model PERFECTLY working!")
 
-if __name__ == "__main__":
-    test_feature_size()
+
