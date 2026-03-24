@@ -28,7 +28,10 @@
 - Accuracy and F1-score  
 - Confusion Matrix  
 - Training curves (loss and accuracy)  
-- Saved best-performing model  
+- Saved best-performing model
+
+- ## Author
+- Priyanshu Kamboj  
 
 ## Applications
 - Smart CCTV surveillance  
